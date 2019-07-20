@@ -91,4 +91,4 @@ pi = 3.14
 raio = int(input('Digite a area do circulo :'))
 a= pi*(raio*raio)
 
-print (f'A area do circulo e, {a} m²)
+print (f'A area do circulo e, {a} m²')
